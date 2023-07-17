@@ -1,0 +1,7 @@
+context:
+  initializer:
+    classes: nl.mindtravel.springtime.config.BeansConfig
+
+spring:
+  profiles:
+    active: dev
